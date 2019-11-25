@@ -2,7 +2,7 @@
 
 The universal desktop GUI wallet for Nakamoto
 
-![Logo](/Nakamotonestlogo.png)
+![Logo](/turtlecoinnestlogo.png)
 
 ## Installation
 
@@ -48,15 +48,9 @@ Important notes:
 Just download the new release and follow the same steps as [Installation](#installation).
 If you are on Windows or Linux, move your wallets (.wallet) and settings.db files from the old Nest folder to the new. Then you can delete the old folder. (on Mac, you do not need to move the settings.db file as it stays in ~/Library/Application Support/Nakamoto-Nest/).
 
-## Screenshots
-
-![Main Screen](/Screenshots/MainScreen.png)
-
-![Open Wallet](/Screenshots/OpenWallet.png)
-
 ## Donations
 
-TRTLv3jzutiQwqHL3qFwsu5EVLWesxZr1AFQ4AuMR3SD56n3rkHDkwj79eKwvaiU1nYQWGydKoXM6fXyiiGKsPDnVCNXzNdusxx
+NaK1fK6MV3pWUPCsWCWtZQZTvoxvjXmoTVqxFYnMgS7CKdEMViRAaofGYxjsbHS7kg6GniWpodgyeYJzsHW3eeYf14fVbWbQs6
 
 ## Build - (for developers only)
 
